@@ -1,3 +1,4 @@
 void main() {
- print("asdasd") ;
+ print("1") ;
+ print("1") ;
 }
